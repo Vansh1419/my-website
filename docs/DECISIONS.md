@@ -20,3 +20,4 @@
 | 2026-10-27 | Tests: Vitest + React Testing Library in `tests/`; `npm test` runs once (not watch mode) | Covers project link hiding and contact form logic; the Next.js docs recommend Vitest for sync components |
 | 2026-10-27 | Bumped `@types/node` from 20 to 24 | Vitest 5 needs 22+; matches the Node 24 we run |
 | 2026-10-27 | Filled site content from the resume; education shown as an entry in the Experience timeline; no phone number on the site | Resume is the source of truth. Phone kept off the public page to limit spam; it is still inside the downloadable PDF |
+| 2026-10-27 | Deploy this site at hero-my-work.vercel.app; resume link is not edited | The resume (and its PDF copy on the site) already points there |

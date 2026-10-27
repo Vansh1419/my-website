@@ -53,4 +53,4 @@ Still open:
 - Project screenshots (optional)
 
 Resolved:
-- The resume's Portfolio link (`hero-my-work.vercel.app`) should point to this site. The old site is not linked from the page. Before sharing the resume, make sure that address serves this site (e.g. name the Vercel project `hero-my-work`, or update the resume link)
+- The resume's Portfolio link (`hero-my-work.vercel.app`) will NOT be edited. This site must be deployed at that address. The old site is not linked from the page. Deploy plan: reuse the existing Vercel project `hero-my-work` (connect it to the new repo / Next.js framework) or free the name and give it to the new project. Metadata, sitemap and robots pick the address up automatically from Vercel.
